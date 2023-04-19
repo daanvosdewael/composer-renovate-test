@@ -5,5 +5,9 @@
 		"config:base",
 		":timezone(Europe/Amsterdam)",
 		"schedule:daily"
-	]
+	],
+	"lockFileMaintenance": {
+		"enabled": true,
+		"schedule": ["before 2am"]
+	},
 }
