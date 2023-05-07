@@ -3,7 +3,7 @@
 	"require": {
 		"php": "^7.4",
 		"league/commonmark": "^2.0",
-		"sebastian/diff": "3.0"
+		"sebastian/diff": "3.0.4"
 	},
 	"require-dev": {
 		"guzzlehttp/guzzle": "^7.0",
